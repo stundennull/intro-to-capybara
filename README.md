@@ -160,7 +160,7 @@ on the name they provided.
 
 Our homepage, at `'/'`, will display the form:
 
-![Form](https://dl.dropboxusercontent.com/s/1zocl86jv9qguth/2015-09-29%20at%206.00%20PM%20%281%29.png)
+![Form](https://dl.dropboxusercontent.com/s/1zocl86jv9qgduth/2015-09-29%20at%206.00%20PM%20%281%29.png)
 
 Upon submitting the form, the application sends a `POST` request to the
 `POST '/greet'` route. Then, the user should see the following page:
